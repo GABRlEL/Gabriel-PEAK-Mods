@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\bin\BetterPreplacedPitons\release\com.github.GABRlEL.BetterPreplacedPitons.deps.json
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\bin\BetterPreplacedPitons\release\com.github.GABRlEL.BetterPreplacedPitons.dll
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\BetterPreplacedPitons.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\BetterPreplacedPitons.IgnoresAccessChecksTo.cs
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\BetterPreplacedPitons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\BetterPreplacedPitons.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\BetterPreplacedPitons.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\BetterPreplacedPitons.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\peak\BetterPreplacedPitons\artifacts\obj\BetterPreplacedPitons\release\com.github.GABRlEL.BetterPreplacedPitons.dll
