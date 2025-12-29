@@ -1,9 +1,0 @@
-is_global = true
-build_property.BepInAutoPluginStripBuildMetadata = 
-build_property.RootNamespace = BBMissesHisWife
-build_property.ProjectDir = C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\src\BBMissesHisWife\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
