@@ -1,0 +1,9 @@
+{
+    "name": "I miss my wife",
+    "version_number": "1.0",
+    "website_url": "https://github.com/GABRlEL/Gabriel-PEAK-Mods/tree/main/BBMissesHisWife",
+    "description": "Literally makes Bing Bong say, that he misses his wife all the time.",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.75301"
+    ]
+}

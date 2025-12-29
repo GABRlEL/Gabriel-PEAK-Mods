@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\bin\BBMissesHisWife\release\com.github.GABRlEL.BBMissesHisWife.deps.json
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\bin\BBMissesHisWife\release\com.github.GABRlEL.BBMissesHisWife.dll
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\BBMissesHisWife.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\BBMissesHisWife.IgnoresAccessChecksTo.cs
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\BBMissesHisWife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\BBMissesHisWife.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\BBMissesHisWife.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\BBMissesHisWife.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\BBMissesHisWife_modded\BBMissesHisWife\artifacts\obj\BBMissesHisWife\release\com.github.GABRlEL.BBMissesHisWife.dll
