@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\ConfigurableScorpions.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\ConfigurableScorpions.IgnoresAccessChecksTo.cs
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\ConfigurableScorpions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\ConfigurableScorpions.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\ConfigurableScorpions.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\ConfigurableScorpions.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\bin\ConfigurableScorpions\debug\com.github.GABRlEL.ConfigurableScorpions.deps.json
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\bin\ConfigurableScorpions\debug\com.github.GABRlEL.ConfigurableScorpions.dll
+C:\Users\Gabriel\Downloads\peak\ConfigurableScorpions\artifacts\obj\ConfigurableScorpions\debug\com.github.GABRlEL.ConfigurableScorpions.dll
