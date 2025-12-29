@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\ConfigurableDynamite.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\ConfigurableDynamite.IgnoresAccessChecksTo.cs
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\ConfigurableDynamite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\ConfigurableDynamite.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\ConfigurableDynamite.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\ConfigurableDynamite.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\bin\ConfigurableDynamite\debug\com.github.GABRlEL.ConfigurableDynamite.deps.json
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\bin\ConfigurableDynamite\debug\com.github.GABRlEL.ConfigurableDynamite.dll
+C:\Users\Gabriel\Downloads\peak\ConfigurableDynamite\artifacts\obj\ConfigurableDynamite\debug\com.github.GABRlEL.ConfigurableDynamite.dll
