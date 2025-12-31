@@ -1,3 +1,3 @@
-# Changelog
+# Version 1.0.0
 
-TODO: You can follow this format for your changelog: <https://keepachangelog.com/en/1.1.0/>
+Initial release
