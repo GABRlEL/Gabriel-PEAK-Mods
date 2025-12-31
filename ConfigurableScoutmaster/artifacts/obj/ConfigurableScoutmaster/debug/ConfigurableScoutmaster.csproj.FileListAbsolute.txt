@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\ConfigurableScoutmaster.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\ConfigurableScoutmaster.IgnoresAccessChecksTo.cs
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\ConfigurableScoutmaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\ConfigurableScoutmaster.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\ConfigurableScoutmaster.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\ConfigurableScoutmaster.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\bin\ConfigurableScoutmaster\debug\com.github.GABRlEL.ConfigurableScoutmaster.deps.json
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\bin\ConfigurableScoutmaster\debug\com.github.GABRlEL.ConfigurableScoutmaster.dll
+C:\Users\Gabriel\Downloads\peak\ConfigurableScoutmaster\artifacts\obj\ConfigurableScoutmaster\debug\com.github.GABRlEL.ConfigurableScoutmaster.dll

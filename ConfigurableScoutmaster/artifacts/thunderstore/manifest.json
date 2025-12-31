@@ -1,0 +1,11 @@
+{
+  "namespace": "Gabriel",
+  "name": "ConfigurableScoutmaster",
+  "description": "Change how the Scoutmaster behaves and how angry he can get!",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "https://github.com/GABRlEL/Gabriel-PEAK-Mods/tree/main/ConfigurableScoutmaster",
+  "FullName": "Gabriel-ConfigurableScoutmaster"
+}
